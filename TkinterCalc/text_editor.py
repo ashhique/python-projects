@@ -14,7 +14,7 @@ def change_text():
 
 window = tk.Tk()
 window.title("Convert text to Uppercase")
-window.iconbitmap("icons8-note-48.ico")
+window.iconbitmap("C:\PycharmProjects\TkinterCalc\img\icons8-note-48.ico")
 window.geometry('500x500')
 
 enter_text = tk.Label(window,text="Enter the text here!")

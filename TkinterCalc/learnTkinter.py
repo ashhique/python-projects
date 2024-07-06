@@ -18,7 +18,7 @@ def button_clicked():
 
 window = tk.Tk()
 window.title("Learn Tkinter")
-window.iconbitmap("icons8-note-48.ico")
+window.iconbitmap("C:\PycharmProjects\TkinterCalc\img\icons8-note-48.ico")
 window.geometry('500x500')
 
 username_label = tk.Label(window, text="username:", font=('calibre', 12, 'bold'))
